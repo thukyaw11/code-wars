@@ -30,6 +30,8 @@ Below is a list of CodeWars challenges along with links to my solutions:
 - [Split Strings](./split-strings.js)
 - [Two Sum](./two-sum.js)
 - [Which Are In](./which-are-in.js)
+- [Meeting](./meeting.js)
+- [Extract The Domain Name From URL](./extract-the-domain-name-from.url.js)
 
 ## Usage
 
